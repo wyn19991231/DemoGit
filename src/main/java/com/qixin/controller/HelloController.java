@@ -40,11 +40,8 @@ public class HelloController {
 		System.out.println("hot_fix分支");
 		System.out.println("hot_fix分支");
 		System.out.println("hot_fix分支");
-		System.out.println("hot_fix分支");
-		System.out.println("hot_fix分支");
-		System.out.println("hot_fix分支");
-		System.out.println("hot_fix分支");
-		System.out.println("hot_fix分支");
-		System.out.println("hot_fix分支");
+		System.out.println("hot_fix分支第二次提交");
+		System.out.println("hot_fix分支第二次提交");
+		System.out.println("hot_fix分支第二次提交");
 	}
 }
