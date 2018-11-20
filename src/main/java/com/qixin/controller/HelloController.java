@@ -37,5 +37,6 @@ public class HelloController {
 	
 	public void demoGit02() {
 		System.out.println("demoGit02");
+		System.out.println("hot_fix分支");
 	}
 }
