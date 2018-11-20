@@ -22,6 +22,11 @@ public class HelloController {
 	//这是用户充值功能
 	public void DemoGit() {
 		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
 	}
 	
 	public void demoGit02() {
