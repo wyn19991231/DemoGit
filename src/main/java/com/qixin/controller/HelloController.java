@@ -4,8 +4,6 @@ public class HelloController {
 
 	public void hello() {
 		System.out.println("hello");
-		System.out.println("hellojj");
-		System.out.println("demoGit");
 		System.out.println("demoGit");
 	}
 	
@@ -14,9 +12,4 @@ public class HelloController {
 		System.out.println("demoGit的支付功能");
 	}
 	
-	public void helloo() {
-		System.out.println("helllo");
-		System.out.println("hell");
-		System.out.println("dem");
-	}
 }
