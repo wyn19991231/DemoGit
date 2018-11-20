@@ -28,6 +28,11 @@ public class HelloController {
 		System.out.println("xxxxxxxxxx");
 		System.out.println("sssssssss");
 		System.out.println("xxxxxxxxxx");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
+		System.out.println("DemoGit的充值功能");
 	}
 	
 	public void demoGit02() {
