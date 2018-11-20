@@ -5,6 +5,7 @@ public class HelloController {
 	public void hello() {
 		System.out.println("hello");
 		System.out.println("demoGit");
+		System.out.println("demoGit");
 	}
 	
 	public void dGit() {
