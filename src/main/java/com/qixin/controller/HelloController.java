@@ -13,4 +13,9 @@ public class HelloController {
 		System.out.println("demoGit的支付功能");
 	}
 	
+	public void helloo() {
+		System.out.println("helllo");
+		System.out.println("hell");
+		System.out.println("dem");
+	}
 }
