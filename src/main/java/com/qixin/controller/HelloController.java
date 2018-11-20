@@ -7,6 +7,8 @@ public class HelloController {
 		System.out.println("demoGit");
 		System.out.println("demoGitxxxx");
 		System.out.println("demoGitxxx");
+		System.out.println("demoGitssss");
+		System.out.println("demoGitsss");
 	}
 	
 	//这是一个用户支付功能，不能修改
