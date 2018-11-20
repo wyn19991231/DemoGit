@@ -12,4 +12,8 @@ public class HelloController {
 		System.out.println("demoGit的支付功能");
 	}
 	
+	//这是用户充值功能
+	public void DemoGit() {
+		System.out.println("DemoGit的充值功能");
+	}
 }
