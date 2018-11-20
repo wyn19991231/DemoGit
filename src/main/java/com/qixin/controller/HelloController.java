@@ -57,10 +57,5 @@ public class HelloController {
 		System.out.println("hot_fix分支第五次提交");
 		System.out.println("hot_fix分支第五次提交");
 		System.out.println("hot_fix分支第五次提交");
-		System.out.println("hot_fix分支第六次提交");
-		System.out.println("hot_fix分支第六次提交");
-		System.out.println("hot_fix分支第六次提交");
-		System.out.println("hot_fix分支第六次提交");
-		System.out.println("hot_fix分支第六次提交");
 	}
 }
